@@ -34,7 +34,7 @@ const config = {
   OWNER_NAME: process.env.OWNER_NAME || "WE THE BEST",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "263716306870,
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyA3-FskH71WtIQbzrhMA7WAC4Th2zqSNiE",
-  WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
+  WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true', 
 };
 
 module.exports = config;
