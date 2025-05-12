@@ -31,8 +31,8 @@ const config = {
   MODE: process.env.MODE || "public",
   
   // Alliance Info
-  OWNER_NAME: process.env.OWNER_NAME || "Frank kaumba",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "265993702468",
+  OWNER_NAME: process.env.OWNER_NAME || "WE THE BEST",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "263716306870,
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyA3-FskH71WtIQbzrhMA7WAC4Th2zqSNiE",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
